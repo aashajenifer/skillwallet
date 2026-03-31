@@ -1,1 +1,1 @@
-# skillwallet
+# skill-wallet
